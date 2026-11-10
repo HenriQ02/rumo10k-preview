@@ -1,0 +1,23 @@
+[
+  { "numero": 1,  "semana": 1, "data": "2026-11-10", "tipo": "leve",  "distanciaKm": 3 },
+  { "numero": 2,  "semana": 1, "data": "2026-11-12", "tipo": "picos", "distanciaKm": 3,   "picos": { "repeticoes": 4, "segundos": 30 } },
+  { "numero": 3,  "semana": 1, "data": "2026-11-15", "tipo": "longa", "distanciaKm": 4 },
+  { "numero": 4,  "semana": 2, "data": "2026-11-17", "tipo": "leve",  "distanciaKm": 3 },
+  { "numero": 5,  "semana": 2, "data": "2026-11-19", "tipo": "picos", "distanciaKm": 3.5, "picos": { "repeticoes": 5, "segundos": 30 } },
+  { "numero": 6,  "semana": 2, "data": "2026-11-22", "tipo": "longa", "distanciaKm": 5 },
+  { "numero": 7,  "semana": 3, "data": "2026-11-24", "tipo": "leve",  "distanciaKm": 3.5 },
+  { "numero": 8,  "semana": 3, "data": "2026-11-26", "tipo": "picos", "distanciaKm": 4,   "picos": { "repeticoes": 6, "segundos": 30 } },
+  { "numero": 9,  "semana": 3, "data": "2026-11-29", "tipo": "longa", "distanciaKm": 6 },
+  { "numero": 10, "semana": 4, "data": "2026-12-01", "tipo": "leve",  "distanciaKm": 3 },
+  { "numero": 11, "semana": 4, "data": "2026-12-03", "tipo": "picos", "distanciaKm": 3,   "picos": { "repeticoes": 4, "segundos": 30 } },
+  { "numero": 12, "semana": 4, "data": "2026-12-06", "tipo": "longa", "distanciaKm": 5 },
+  { "numero": 13, "semana": 5, "data": "2026-12-08", "tipo": "leve",  "distanciaKm": 4 },
+  { "numero": 14, "semana": 5, "data": "2026-12-10", "tipo": "picos", "distanciaKm": 4,   "picos": { "repeticoes": 6, "segundos": 45 } },
+  { "numero": 15, "semana": 5, "data": "2026-12-13", "tipo": "longa", "distanciaKm": 7 },
+  { "numero": 16, "semana": 6, "data": "2026-12-15", "tipo": "leve",  "distanciaKm": 4 },
+  { "numero": 17, "semana": 6, "data": "2026-12-17", "tipo": "picos", "distanciaKm": 5,   "picos": { "repeticoes": 6, "segundos": 45 } },
+  { "numero": 18, "semana": 6, "data": "2026-12-20", "tipo": "longa", "distanciaKm": 8.5, "nota": "A mais longa antes da prova! Depois disto, os 10 km já estão quase no bolso." },
+  { "numero": 19, "semana": 7, "data": "2026-12-22", "tipo": "leve",  "distanciaKm": 3 },
+  { "numero": 20, "semana": 7, "data": "2026-12-23", "tipo": "picos", "distanciaKm": 2.5, "picos": { "repeticoes": 3, "segundos": 20 }, "nota": "Só para soltar as pernas. Nada de cansar!" },
+  { "numero": 21, "semana": 7, "data": "2026-12-27", "tipo": "prova", "distanciaKm": 10,  "nota": "🎀 DIA DA PROVA" }
+]

@@ -1,0 +1,2 @@
+Ficheiros reais (premios, mensagens) que substituem os .example.json.
+Esta pasta nao vai para o git. No GitHub, os premios entram no APK via secret RUMO_PRIZES_B64.

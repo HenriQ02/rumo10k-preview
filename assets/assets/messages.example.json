@@ -1,0 +1,13 @@
+[
+  { "trigger": "treino_1", "texto": "" },
+  { "trigger": "treino_6", "texto": "" },
+  { "trigger": "treino_9", "texto": "" },
+  { "trigger": "treino_12", "texto": "" },
+  { "trigger": "treino_15", "texto": "" },
+  { "trigger": "treino_18", "texto": "" },
+  { "trigger": "bonus_5km", "texto": "" },
+  { "trigger": "bonus_8km", "texto": "" },
+  { "trigger": "bonus_50km", "texto": "" },
+  { "trigger": "dia_prova", "texto": "" },
+  { "trigger": "final", "texto": "" }
+]
